@@ -1,0 +1,14 @@
+Poné aquí tus fotos de trabajos con estos nombres exactos:
+
+trabajo-1.jpg
+trabajo-2.jpg
+trabajo-3.jpg
+trabajo-4.jpg
+trabajo-5.jpg
+trabajo-6.jpg
+
+Formato recomendado: JPG, orientación horizontal (apaisada), 
+al menos 1000 px de ancho. No hace falta editarlas ni recortarlas,
+la página las ajusta automáticamente.
+
+Podés borrar este archivo LEEME.txt cuando ya no lo necesites.
